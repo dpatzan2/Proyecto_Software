@@ -1,0 +1,22 @@
+Información general de carpeta Anexos
+Diego Patzán - 23525 
+Diego Lopez - 23242 
+June Herrera - 231038 
+Ihan Marroquin – 23108
+
+CORTE 1: Comprendiendo el problema
+	En este corte se empezó con la idea y la revisión de la propuesta de nuestro proyecto, la cual va enfocada en el área de flujos, para ayudar en los retrasos, errores y dificultades que genera llevar todos los flujos a mano
+	Aquí se selecciono los usuarios extremos de nuestra aplicación asi como se aplicaron técnicas como "Que, Como y Por que" y Framework AEIOU
+	Se describieron los usuarios posibles y futuros que podían existir en la aplicación y se realizo un guión de entrevista para el Product Owner
+	Se definieron mapas de empatia para los responsables acargo de las secciones especificas de las cuales hicimos perfiles
+	CROTE 1 fue la primera entrega de nuestra visión sobre el proyecto
+
+CORTE 2: Captura de requisitos
+	En este corte se empezaron a refinar los pasos a seguir para el análisis de bosquejos sobre la aplicación, además de empezar a definir como se crarian flujos y aprobarían estos mismos, estandarización de flujos de trabajo, manejo de excepciones, entre otros
+	Se empezó a modelar el sistema y según los roles con los que contaba el usuario, podría realizar ciertas acciones en la aplicación, además de definir con mayor claridad los actores del sistema, crar diagramas de casos de uso para los perfiles creados, listado de requisitos no funcionales y realizar un proceso de ideación y filtración para los específicos del proyecto
+	CORTE 2 fue algo que ya iba tomando forma y fue la segunda entrega formal sobre avances del proyecto
+
+CORTE 3: Análisis y Diseño 
+	Se crearon los prototipos para las historias de usuario, se analizo y creo una lista de requisitos funcionales por historia de usuario además de, en base a las historias de usuario, crear la matriz de trazabilidad, las clases preliminares, diagrama de paquetes y descripción de cada uno de los paquetes por modulo
+	Se estipulo el modelo de persistencia de datos y se definieron las tecnologías a usar para la creación del proyecto completo
+	CORTE 3 fue algo que se uso para definir y lograr concretar el futuro del proyecto, fue la base de la creación y la completación del proyecto general
