@@ -1,0 +1,10 @@
+Link repositorios
+
+Diego Patzán - 23525 
+Diego Lopez - 23242 
+June Herrera - 231038 
+Ihan Marroquin – 23108
+
+Back: https://github.com/Fluentis-BPM/fluentis-backend.git
+
+Front: https://github.com/Fluentis-BPM/fluentis-frontend.git
